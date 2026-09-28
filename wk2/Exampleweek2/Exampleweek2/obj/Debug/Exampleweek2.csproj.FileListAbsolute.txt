@@ -1,0 +1,10 @@
+C:\Users\apdal\Desktop\csharp_workspace\abdalla_C#\Exampleweek2\Exampleweek2\bin\Debug\Exampleweek2.exe.config
+C:\Users\apdal\Desktop\csharp_workspace\abdalla_C#\Exampleweek2\Exampleweek2\bin\Debug\Exampleweek2.exe
+C:\Users\apdal\Desktop\csharp_workspace\abdalla_C#\Exampleweek2\Exampleweek2\bin\Debug\Exampleweek2.pdb
+C:\Users\apdal\Desktop\csharp_workspace\abdalla_C#\Exampleweek2\Exampleweek2\obj\Debug\Exampleweek2.csproj.AssemblyReference.cache
+C:\Users\apdal\Desktop\csharp_workspace\abdalla_C#\Exampleweek2\Exampleweek2\obj\Debug\Exampleweek2.Form1.resources
+C:\Users\apdal\Desktop\csharp_workspace\abdalla_C#\Exampleweek2\Exampleweek2\obj\Debug\Exampleweek2.Properties.Resources.resources
+C:\Users\apdal\Desktop\csharp_workspace\abdalla_C#\Exampleweek2\Exampleweek2\obj\Debug\Exampleweek2.csproj.GenerateResource.cache
+C:\Users\apdal\Desktop\csharp_workspace\abdalla_C#\Exampleweek2\Exampleweek2\obj\Debug\Exampleweek2.csproj.CoreCompileInputs.cache
+C:\Users\apdal\Desktop\csharp_workspace\abdalla_C#\Exampleweek2\Exampleweek2\obj\Debug\Exampleweek2.exe
+C:\Users\apdal\Desktop\csharp_workspace\abdalla_C#\Exampleweek2\Exampleweek2\obj\Debug\Exampleweek2.pdb
